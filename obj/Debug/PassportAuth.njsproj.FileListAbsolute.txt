@@ -1,2 +1,3 @@
 C:\Users\bsamu\source\repos\PassportAuth\PassportAuth\obj\Debug\PassportAuth.njsproj.CoreCompileInputs.cache
 C:\Users\bsamu\source\repos\PassportAuth\PassportAuth\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\bsamu\source\repos\PassportAuth\PassportAuth\obj\Debug\PassportAuth.njsprojAssemblyReference.cache
